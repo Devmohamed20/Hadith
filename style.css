@@ -1,0 +1,39 @@
+*{
+  background-color:#16423C;
+}
+div{
+  margin: 10% 10% 0% 10%;
+  width: 80%;
+}
+img{
+  width: 100%;
+  border: 2px solid #E9EFEC;
+  border-radius: 5px;
+}
+h1{
+  color: #E9EFEC;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+}
+p{
+  text-align: center;
+  font-family: "SUSE", sans-serif;
+  color: #E9EFEC;
+  font-size: 10pt;
+}
+button[type="submit"]{
+  margin: 3% 50% 5% 50%;
+  padding: 15px 30px;
+  background-color: #E9EFEC;
+  border: #E9EFEC;
+  border-radius: 5px;
+}
+a{
+  color: #16423C;
+  background-color: #E9EFEC;
+  text-decoration: none;
+  font-size: medium;
+  font-family: "SUSE", sans-serif;
+  font-weight: 600;
+}
